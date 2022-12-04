@@ -1,0 +1,164 @@
+
+.firstline{
+    margin-top: 50px;
+}
+button{
+    margin-left: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    width: 200px;
+    height: 140px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 50px; 
+    position: relative;
+    right: 200px;
+    background-color:darkgray;
+    color: white;
+    
+} 
+.firstQuestion{
+    position: relative;
+    left: 550px;
+    margin-top: 100px;
+    
+}
+.question{
+    position: relative;
+     right: 200px;
+     font-size: 30px;
+}
+.name{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 300px;
+}
+button:hover{
+   color: white; 
+   background-color:cornflowerblue;
+}
+body{
+    background-color:darkorange;
+}
+.secondQuestion{
+    position: relative;
+    left: 550px;
+    margin-top: 100px;
+    display: none;
+    
+}
+.pasuxebi{
+
+        margin-left: 30px;
+        border-style: solid;
+        border-radius: 15px;
+        width: 300px;
+        height: 140px;
+        margin-bottom: 40px;
+        margin-left: 100px;
+        margin-top: 30px;
+        font-size: 30px; 
+        position: relative;
+        right: 300px;
+ background-color:darkgray;
+ color: white;
+        
+ 
+}
+.secquestion{
+    position: relative;
+    right: 80px;
+    font-size: 30px;
+}
+.thiquestion{
+    font-size: 30px;
+    position: relative;
+    left: 50px;
+
+}
+.thirdQuestion{
+    position: relative;
+    left: 500px;
+    font-size: 30px;
+    display:none;
+}
+.pasuxeb{
+    margin-left: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    width: 300px;
+    height: 140px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 30px; 
+    position: relative;
+    right: 250px;
+background-color:darkgray;
+color: white;
+
+}
+
+.pasuxe{
+    margin-left: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    width: 300px;
+    height: 140px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 30px; 
+    position: relative;
+    right: 250px;
+background-color:darkgray;
+color: white;
+
+
+}
+
+.fourthQuestion{
+    position: relative;
+    left: 500px;
+    font-size: 30px;
+    display: none;
+    
+}
+.forquestion{
+    position: relative;
+    right: 200px;
+    size: 30px;
+    
+}
+
+
+.fifthQuestion{
+    position: relative;
+    left: 500px;
+    display: none;
+}
+.fivequestion{
+font-size: 30px;
+}
+
+.pasux{
+    margin-left: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    width: 300px;
+    height: 140px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 30px; 
+    position: relative;
+    right: 250px;
+background-color:darkgray;
+color: white;
+
+}
+body{
+    width: 900px;
+}
